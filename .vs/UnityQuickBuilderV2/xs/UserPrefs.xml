@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B0B87C1C-A0F5-1FF7-9D10-171E21C85536}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EasyBuilder/QuickBuilderEditor.cs">
+    <Files>
+      <File FileName="Assets/EasyBuilder/Tile.cs" Line="30" Column="34" />
+      <File FileName="Assets/EasyBuilder/QuickBuilder.cs" Line="14" Column="28" />
+      <File FileName="Assets/EasyBuilder/QuickBuilderEditor.cs" Line="6" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
